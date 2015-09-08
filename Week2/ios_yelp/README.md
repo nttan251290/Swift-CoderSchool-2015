@@ -31,5 +31,5 @@ Time spent: 16h
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/NXGieng/Swift-CoderSchool-2015/blob/master/Week2/ios_yelp/demo.gif)
 
